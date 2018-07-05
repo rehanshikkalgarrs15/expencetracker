@@ -1,0 +1,27 @@
+{
+  "name": "myexpencetracker",
+  "version": "1.0.0",
+  "description": "track my daily expence",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [
+    "daily",
+    "myexpence",
+    "rehan",
+    "monthly",
+    "yearly",
+    "food",
+    "shopping",
+    "card",
+    "debit"
+  ],
+  "author": "Rehan Shikkalgar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0"
+  }
+}
